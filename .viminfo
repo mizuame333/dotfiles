@@ -1,0 +1,370 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/showmode
+
+# 最後に置換された文字列:
+$\2
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:qall!
+:q!all
+:qall
+:vs
+:wq
+:NeoBundleInstall
+:w
+:q!
+:q
+:vs test.txt
+:w test.txt
+:w vimrc_old
+:vs .vimrc
+:vs .vim_rc
+:wqall
+:a!
+:call <SNR>159_GundoClose()
+:vs bra_xperia.txt
+:NeoBundleCheck
+:NeoBundleDirectInstall
+:NeoBundleClean
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/showmode
+?/trail
+?/list
+?/myauto
+?/mycmd
+?/my
+?/if 
+?/if
+?/set list
+?/wrap
+?/hidden
+?/hiddren
+?/swit
+?/showmatch
+?/  
+?/    |___________|/ |________|/     \|________||_____|/ \|_____| \|_____|    ||  
+?/   |           | /|        | |   | |        ||     | | |     || |     /____/|  
+?/ |  |____________/| /________/|   |\________\ /_____/ |\______|| \_____\|    |  
+?/|   /  \/   /_/  |  /       \ ___ /       \   /     /\ \/    \|\     \|\    \  
+?/   / __    /     \\_____//     \     |      \  ____ |     |  _____   
+?/    //     \\    \      |      ___/    |     | |____|/  
+?/  \|____\  \___|/    /    //   \\    \       |   \_\    |    /     / /____/| 
+?/  /     /||\___/\  \\___/|     /    _   _    \       \    /\    \      /     /|     | 
+?/            \       /           \       \          \        _____\    \_  
+?/ガンガン
+?/ガンガン
+?/8234-3
+?/Aが出る
+?/飛躍
+?/color_prompt
+?/Ps
+?/line
+?/alias
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"0	LINE	0
+	set listchars=tab:»-,trail:-,e»,precedes:«,nbsp:%
+"1	LINE	0
+	
+"2	LINE	0
+	augroup END
+"3	LINE	0
+	  autocmd!
+"4	LINE	0
+	augroup MyAutoCmd
+"5	LINE	0
+	
+"6	LINE	0
+	" release autogroup in MyAutoCmd
+"7	LINE	0
+	
+"8	LINE	0
+	
+"9	LINE	0
+	set listchars=tab:≫-,trail:-,extends:≫,precedes:≪,nbsp:%,eol:?
+""-	CHAR	0
+	j
+
+# ファイルマーク:
+'0  32  0  ~/.vimrc
+'1  37  11  ~/.vimrc
+'2  75  31  ~/.vimrc
+'3  8  0  ~/.vimrc
+'4  1  0  ~/,vimrc
+'5  80  0  ~/test.txt
+'6  1  12  ~/.vimrc
+'7  53  15  ~/.vimrc
+'8  59  9  ~/.vimrc
+'9  71  0  ~/.vimrc
+
+# ジャンプリスト (新しいものが先):
+-'  32  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  37  11  ~/.vimrc
+-'  75  26  ~/.vimrc
+-'  76  1  ~/.vimrc
+-'  104  0  ~/.vimrc
+-'  55  0  ~/.vimrc
+-'  8  0  ~/.vimrc
+-'  1  0  ~/,vimrc
+-'  80  0  ~/test.txt
+-'  220  8  ~/test.txt
+-'  214  8  ~/test.txt
+-'  127  8  ~/test.txt
+-'  124  8  ~/test.txt
+-'  112  8  ~/test.txt
+-'  109  8  ~/test.txt
+-'  280  10  ~/test.txt
+-'  269  8  ~/test.txt
+-'  251  10  ~/test.txt
+-'  101  14  ~/test.txt
+-'  1  13  ~/test.txt
+-'  10  0  ~/.vimrc
+-'  41  0  ~/vim_test.txt
+-'  1  0  ~/vim_test.txt
+-'  53  15  ~/.vimrc
+-'  59  9  ~/.vimrc
+-'  71  0  ~/.vimrc
+-'  80  0  ~/.vimrc
+-'  49  0  ~/.vimrc
+-'  40  68  ~/.vimrc
+-'  20  13  ~/.vimrc
+-'  38  0  ~/.vimrc
+-'  30  4  ~/.vimrc
+-'  41  0  ~/.vimrc
+-'  42  0  ~/.vimrc
+-'  163  2  ~/.vimrc
+-'  89  9  ~/.vimrc
+-'  7  29  ~/.vimrc
+-'  1  0  ~/munou.py
+-'  22  0  ~/munou.py
+-'  42  2  ~/munou.py
+-'  214  0  ~/.vimrc
+-'  6  2  ~/__Gundo__
+-'  1  0  ~/__Gundo_Preview__
+-'  97  0  ~/.vimrc
+-'  7  0  ~/NaturalLanguages/term_frequency.py
+-'  1  0  ~/NaturalLanguages/term_frequency.py
+-'  10  0  ~/munou.py
+-'  9  0  ~/munou.py
+-'  31  0  ~/NaturalLanguages/extract_hikaku.py
+-'  1  0  ~/NaturalLanguages/extract_hikaku.py
+-'  44  44  ~/NaturalLanguages/extract_hikaku.py
+-'  45  19  ~/NaturalLanguages/extract_hikaku.py
+-'  42  4  ~/NaturalLanguages/extract_hikaku.py
+-'  42  0  ~/.bashrc
+-'  40  17  ~/.bashrc
+-'  64  25  ~/.bashrc
+-'  59  7  ~/.bashrc
+-'  55  1  ~/.bashrc
+-'  53  1  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  114  4  ~/.bashrc
+-'  1  0  ~/.bashr
+-'  115  0  ~/.bashrc
+-'  200  31  ~/.vimrc
+-'  150  0  ~/.vimrc
+-'  120  0  ~/.vimrc
+-'  112  28  ~/.bashrc
+-'  80  5  ~/.bashrc
+-'  79  5  ~/.bashrc
+-'  78  4  ~/.bashrc
+-'  75  48  ~/.bashrc
+-'  88  0  ~/.vimrc
+-'  14  0  ~/.vimrc
+-'  1  0  ~/,vimrc
+-'  80  0  ~/test.txt
+-'  220  8  ~/test.txt
+-'  214  8  ~/test.txt
+-'  127  8  ~/test.txt
+-'  124  8  ~/test.txt
+-'  112  8  ~/test.txt
+-'  109  8  ~/test.txt
+-'  280  10  ~/test.txt
+-'  269  8  ~/test.txt
+-'  251  10  ~/test.txt
+-'  101  14  ~/test.txt
+-'  1  13  ~/test.txt
+-'  41  0  ~/vim_test.txt
+-'  1  0  ~/vim_test.txt
+-'  74  31  ~/.vimrc
+-'  54  0  ~/.vimrc
+-'  1  0  ~/,vimrc
+-'  80  0  ~/test.txt
+-'  220  8  ~/test.txt
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/.vimrc
+	"	32	0
+	^	1	3
+	.	1	1
+	+	146	0
+	+	150	0
+	+	72	0
+	+	7	1
+	+	7	0
+	+	7	0
+	+	7	0
+	+	7	0
+	+	7	0
+	+	7	0
+	+	7	0
+	+	7	0
+	+	7	0
+	+	7	0
+	+	2	1
+	+	7	0
+	+	2	0
+	+	4	0
+	+	2	0
+	+	7	0
+	+	5	28
+	+	6	28
+	+	5	29
+	+	6	29
+	+	1	30
+	+	7	30
+	+	8	1
+	+	4	0
+	+	7	35
+	+	1	34
+	+	7	35
+	+	1	35
+	+	40	0
+	+	54	0
+	+	40	0
+	+	43	0
+	+	45	0
+	+	47	0
+	+	56	0
+	+	32	0
+	+	42	0
+	+	41	0
+	+	40	0
+	+	30	7
+	+	30	0
+	+	25	0
+	+	29	0
+	+	25	0
+	+	26	0
+	+	29	0
+	+	76	0
+	+	76	0
+	+	76	0
+	+	55	4
+	+	58	12
+	+	4	9
+	+	3	0
+	+	24	18
+	+	75	0
+	+	74	8
+	+	75	22
+	+	77	9
+	+	77	0
+	+	37	11
+	+	1	1
+
+> ~/,vimrc
+	"	1	0
+
+> ~/test.txt
+	"	80	0
+	^	2	17
+	.	2	17
+	+	1	0
+	+	3	0
+	+	2	17
+
+> ~/vim_test.txt
+	"	224	4
+
+> ~/.vim_rc
+	"	1	0
+
+> ~/munou.py
+	"	1	0
+	^	6	3
+	.	6	2
+	+	9	0
+	+	6	2
+
+> ~/__Gundo_Preview__
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/__Gundo__
+	"	6	2
+	.	1	0
+	+	1	0
+
+> ~/NaturalLanguages/term_frequency.py
+	"	7	0
+
+> ~/NaturalLanguages/extract_hikaku.py
+	"	31	0
+	^	7	83
+	.	7	80
+	+	44	0
+	+	42	37
+	+	43	0
+	+	45	0
+	+	42	25
+	+	45	15
+	+	44	0
+	+	46	44
+	+	48	43
+	+	52	24
+	+	49	77
+	+	48	77
+	+	50	24
+	+	7	80
+
+> ~/NaturalLanguages/test.txt
+	"	551	0
+
+> ~/NaturalLanguages/bra_xperia.txt
+	"	301	0
+	^	2	0
+	.	1	3
+	+	1	3
+
+> ~/.bashrc
+	"	42	0
+	^	114	5
+	.	114	4
+	+	80	4
+	+	79	4
+	+	82	4
+	+	83	4
+	+	84	4
+	+	88	0
+	+	89	0
+	+	111	15
+	+	112	28
+	+	113	13
+	+	115	1
+	+	114	4
+
+> ~/.bashr
+	"	1	0
+
+> ~/vimrc
+	"	109	0
